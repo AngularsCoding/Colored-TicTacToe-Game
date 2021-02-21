@@ -1,6 +1,6 @@
 # Colored-TicTacToe-Game
 
-C++ Tutorial - Making Simple Tic Tac Toe Game In 8 Minutes.
+C++ Tutorial - Making Simple Tic Tac Toe Game In 4 Minutes.
 
 Welcome to my simple tutorial on C++. In this tutorial, you will learn how to make a simple Tic Tac Toe game in C++ in just 8 minutes.g.
 
